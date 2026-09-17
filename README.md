@@ -101,23 +101,17 @@ Software Development
 
 ---
 
-## GitHub Statistics
+## GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abmofficial&show_icons=true&theme=github_dark&hide_border=true" alt="ABM's GitHub Stats" />
+![ABM's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abmofficial\&show_icons=true\&theme=github_dark\&hide_border=true\&bg_color=0d1117)
 
-<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abmofficial\&layout=compact\&theme=github_dark\&hide_border=true\&bg_color=0d1117)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abmofficial&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+![GitHub Streak](https://streak-stats.demolab.com?user=abmofficial\&theme=github-dark-blue\&hide_border=true\&background=0D1117)
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=abmofficial&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=abmofficial&style=for-the-badge&color=30363d&label=PROFILE+VIEWS" alt="Profile Views" />
+![Profile Views](https://komarev.com/ghpvc/?username=abmofficial\&style=for-the-badge\&color=30363d\&label=PROFILE+VIEWS)
 
 </div>
 
